@@ -1,0 +1,8 @@
+*.jpg
+*.jpeg
+*.weights
+*.h5
+cache_icdar2019_rect_cal.pkl
+cache_icdar2019_rect_trn.pkl
+cache_icdar2019_rect_val.pkl
+*.AWE003
